@@ -39,6 +39,6 @@ v
 # demo (url) 
 
 
-
+changed to close issue 2 and mile stone completon with due date and issued / pull requests 
 
 # url 
